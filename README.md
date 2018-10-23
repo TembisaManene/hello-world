@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Tembisa Manene
+QA Engineer
